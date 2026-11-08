@@ -1,0 +1,9 @@
+name: listing-automater
+version: "1.0.0"
+description: Skill only plugin. Teaches the agent what Listing AutomatEr is and how to write compliant Facebook Marketplace listing posts for agents with permission to market them.
+author: Summertimechi
+license: MIT
+homepage: https://listingautomater.com
+provides_tools: []
+provides_hooks: []
+requires_env: []
